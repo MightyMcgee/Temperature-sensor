@@ -1,4 +1,3 @@
-#look for code specifically fior this sensor
 import time
 import numpy as np
 from gpiozero import MCP3008
